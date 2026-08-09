@@ -1,5 +1,5 @@
 ---
-name: privacy-scan-kr
+name: scan
 description: >
   한국 개인정보 보호법(PIPA) 준수 여부를 위해 이미 작성된 코드를 스캔하고,
   개인정보 수집·이용 관련 코드에 동의 절차나 처리방침이 빠져 있는지 심각도별로

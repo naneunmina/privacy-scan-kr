@@ -51,16 +51,18 @@ Claude Code 안에서:
 git clone https://github.com/naneunmina/privacy-scan-kr.git
 ```
 
-두 방법 모두 설치 후에는 자연어 요청("개인정보 스캔해줘")이나 `/privacy-scan-kr`
-명령으로 스킬을 호출할 수 있습니다.
+두 방법 모두 설치 후에는 자연어 요청("개인정보 스캔해줘")이나 슬래시 명령으로
+스킬을 호출할 수 있습니다. 플러그인으로 설치했다면 `/privacy-scan-kr:scan`
+(다른 명령과 겹치지 않으면 `/scan`도 동작), 스킬 폴더를 수동 복사했다면
+`/scan`입니다.
 
 ## 사용법
 
-`/privacy-scan-kr` 명령으로 바로 부르거나, 아래처럼 자연어로 요청해도
-자동으로 호출됩니다.
+슬래시 명령으로 바로 부르거나, 아래처럼 자연어로 요청해도 자동으로
+호출됩니다.
 
 ```
-/privacy-scan-kr
+/privacy-scan-kr:scan
 ```
 
 ```
