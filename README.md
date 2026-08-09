@@ -28,8 +28,7 @@ React, Vue, Next.js, Node/Express, Django, Spring 등 스택을 가리지 않고
   [rules/](skills/privacy-scan-kr/rules)에서 그대로 확인 가능
 
 스캔 리포트는 항상 먼저 보여드리고, 문서·UI 초안은 "처리방침 만들어줘"처럼
-명시적으로 요청할 때만 만들어 드립니다. 스캔 결과만 보고 싶다면 그걸로
-끝입니다.
+명시적으로 요청할 때만 만들어 드립니다.
 
 ## 설치
 
@@ -102,6 +101,10 @@ skills/privacy-scan-kr/
 - 법 개정에 따른 변경 이력은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 - 법 개정을 발견하셨다면 [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해서
   이슈를 남겨주세요.
+- `rules/`·`templates/`는 특정 에이전트에 종속되지 않은 순수 자료입니다.
+  Claude Code 외 다른 AI 코딩 에이전트에서도 쓸 수 있게 포팅하는 기여를
+  환영합니다 — [CONTRIBUTING.md](CONTRIBUTING.md)의 "다른 에이전트 지원"
+  참고.
 
 ## 한계
 
