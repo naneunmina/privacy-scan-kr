@@ -1,0 +1,14 @@
+{
+  "name": "privacy-scan-kr",
+  "owner": {
+    "name": "naneunmina",
+    "url": "https://github.com/naneunmina"
+  },
+  "plugins": [
+    {
+      "name": "privacy-scan-kr",
+      "source": ".",
+      "description": "한국 개인정보 보호법(PIPA) 준수 스캔 스킬"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "privacy-scan-kr",
+  "version": "1.0.0",
+  "description": "바이브코딩으로 빠르게 만든 프로젝트가 한국 개인정보 보호법(PIPA) 관점에서 놓치기 쉬운 부분을 코드 스캔으로 잡아주는 Claude Code 스킬.",
+  "author": {
+    "name": "naneunmina"
+  },
+  "homepage": "https://github.com/naneunmina/privacy-scan-kr",
+  "repository": "https://github.com/naneunmina/privacy-scan-kr",
+  "license": "MIT"
+}

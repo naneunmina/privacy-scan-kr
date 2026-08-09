@@ -17,3 +17,7 @@
 - templates/privacy-policy.md, templates/terms-of-service.md,
   templates/consent-checkbox.* 작성.
 - SKILL.md 스캔 로직(자동 스택 판단, 심각도 구분, 2단계 워크플로우) 작성.
+- rules/*.md 전체를 korean-law-mcp(법제처 국가법령정보 공동활용 API)로 조문
+  원문과 직접 대조해 재검증. 제15조제1항제4호 인용 오류 수정, 시행령 제17조의2·
+  제31조 조번호 및 항목 확정, minors.md의 PIPC 「아동·청소년 개인정보 보호
+  안내서」를 2022년 구판에서 2024.12 현행판(PDF 원문 대조)으로 갱신.
